@@ -1,0 +1,11 @@
+Time : 06:28:08
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'userEmail' in 'field list'
+Raw SQL : SELECT userEmail FROM users WHERE userEmail=:email
+
+Time : 06:28:08
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'userEmail' in 'field list'
+Raw SQL : SELECT userEmail FROM users WHERE userEmail=:email
+
+Time : 06:25:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'userEmail' in 'field list'
+Raw SQL : SELECT userEmail FROM users WHERE userEmail=:email
